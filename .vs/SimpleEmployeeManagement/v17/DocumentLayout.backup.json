@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|c:\\users\\shammika\\source\\repos\\simpleemployeemanagement\\simpleemployeemanagementclient\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|solutionrelative:simpleemployeemanagementclient\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F727E170-3C73-4D12-80B6-2DBC89B03B14}|SimpleEmployeeManagement\\SimpleEmployeeManagement.csproj|c:\\users\\shammika\\source\\repos\\simpleemployeemanagement\\simpleemployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F727E170-3C73-4D12-80B6-2DBC89B03B14}|SimpleEmployeeManagement\\SimpleEmployeeManagement.csproj|solutionrelative:simpleemployeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F727E170-3C73-4D12-80B6-2DBC89B03B14}|SimpleEmployeeManagement\\SimpleEmployeeManagement.csproj|c:\\users\\shammika\\source\\repos\\simpleemployeemanagement\\simpleemployeemanagement\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F727E170-3C73-4D12-80B6-2DBC89B03B14}|SimpleEmployeeManagement\\SimpleEmployeeManagement.csproj|solutionrelative:simpleemployeemanagement\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|c:\\users\\shammika\\source\\repos\\simpleemployeemanagement\\simpleemployeemanagementclient\\src\\components\\employeeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|solutionrelative:simpleemployeemanagementclient\\src\\components\\employeeform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|c:\\users\\shammika\\source\\repos\\simpleemployeemanagement\\simpleemployeemanagementclient\\src\\components\\employeelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AE8D6A4-F9F6-47CE-8EB5-321A94ACE232}|SimpleEmployeeManagementClient\\simpleemployeemanagementclient.esproj|solutionrelative:simpleemployeemanagementclient\\src\\components\\employeelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\SimpleEmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SimpleEmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\SimpleEmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "SimpleEmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:31:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\App.jsx",
+              "RelativeDocumentMoniker": "simpleemployeemanagementclient\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\App.jsx",
+              "RelativeToolTip": "simpleemployeemanagementclient\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-04T05:27:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\SimpleEmployeeManagement\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "SimpleEmployeeManagement\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\SimpleEmployeeManagement\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "SimpleEmployeeManagement\\Data\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:02.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.jsx",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\components\\EmployeeForm.jsx",
+              "RelativeDocumentMoniker": "simpleemployeemanagementclient\\src\\components\\EmployeeForm.jsx",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\components\\EmployeeForm.jsx",
+              "RelativeToolTip": "simpleemployeemanagementclient\\src\\components\\EmployeeForm.jsx",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-04T05:23:47.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeList.jsx",
+              "DocumentMoniker": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\components\\EmployeeList.jsx",
+              "RelativeDocumentMoniker": "simpleemployeemanagementclient\\src\\components\\EmployeeList.jsx",
+              "ToolTip": "C:\\Users\\Shammika\\source\\repos\\SimpleEmployeeManagement\\simpleemployeemanagementclient\\src\\components\\EmployeeList.jsx",
+              "RelativeToolTip": "simpleemployeemanagementclient\\src\\components\\EmployeeList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-04T05:22:02.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
